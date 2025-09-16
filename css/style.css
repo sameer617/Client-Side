@@ -1,0 +1,158 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #000000;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1 {
+  width: 1280px;
+  height: 91px;
+  position: absolute;
+  left: 80px;
+  top: 49px;
+  overflow: hidden;
+}
+.dhruv-narula {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 24px;
+  top: 15px;
+  width: 229px;
+  height: 54px;
+}
+.frame-2 {
+  padding: 6px 0px 6px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 88px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 742px;
+  top: 9px;
+  overflow: hidden;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: relative;
+  width: 107px;
+  height: 43px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: relative;
+  width: 116px;
+  height: 61px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: relative;
+  width: 164px;
+  height: 21px;
+}
+.frame-3 {
+  margin-top: 80px;
+  width: 1330px;
+  height: 519px;
+  position: absolute;
+  overflow: hidden;
+  align-items: center;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  width: 1279px;
+  height: 98px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-codes {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 120px;
+  width: 914px;
+  height: 73px;
+}
+.frame-4 {
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 324px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 14px;
+  width: 150px;
+  height: 29px;
+  -webkit-text-stroke: 1px #000000;
+}
+.frame-5 {
+  width: 758px;
+  height: 63px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 859px;
+  overflow: hidden;
+}
+.frame-6 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 119px;
+  top: 0px;
+}
+.dhruv-narula-university-of-maryland-fall-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
